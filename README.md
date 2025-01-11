@@ -40,6 +40,8 @@ Power BI: Offers a user-friendly interface for creating interactive, sharable, a
 Efficiency: Combines the strengths of both tools to streamline sales analysis and decision-making processes.
 # Conclusion:
 By using Python for data analysis and Power BI for visualization, businesses can gain a comprehensive understanding of their sales performance. This combination enhances data-driven decision-making and allows teams to visualize trends, forecast future sales, and monitor key business metrics in real time.
+![image](https://github.com/user-attachments/assets/f4b8a1e6-6b7a-477f-a57f-bde65b24a9f3)
+
 
 
 
